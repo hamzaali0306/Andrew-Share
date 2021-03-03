@@ -1,0 +1,10 @@
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\Test-DAL.dll.config
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\Test-DAL.dll
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\Test-DAL.pdb
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\EntityFramework.dll
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\EntityFramework.xml
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\obj\Debug\Test-DAL.csprojResolveAssemblyReference.cache
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\obj\Debug\Test-DAL.dll
+C:\Users\WRDS\Desktop\Test\Test-WebApi\Test-DAL\obj\Debug\Test-DAL.pdb
